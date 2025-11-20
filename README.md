@@ -1,4 +1,4 @@
-# HCLTech Intelligent Document Processing (IDP) Solution
+# HCLTech Legal Agentic Solution
 
 [![AWS](https://img.shields.io/badge/AWS-Bedrock%20AgentCore-orange)](https://aws.amazon.com/bedrock/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-HCLTech's Intelligent Document Processing (IDP) Solution is an enterprise-grade, AI-powered document processing system built on AWS Bedrock AgentCore. This solution automates the extraction, classification, and entity recognition from legal and business documents using a sophisticated multi-agent architecture.
+HCLTech's Legal Solution is an enterprise-grade, AI-powered document processing system built on AWS Bedrock AgentCore. This solution automates the extraction, classification, and entity recognition from legal and business documents using a sophisticated multi-agent architecture.
 
 ### Key Benefits
 
@@ -64,7 +64,7 @@ Document Upload → Agent 1 (Extraction) → Agent 2 (Classification) → Agent 
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd legal-idp-agents
+   cd legal-agents
    ```
 
 2. **Install Dependencies**

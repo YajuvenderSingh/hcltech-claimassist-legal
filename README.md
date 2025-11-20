@@ -64,7 +64,7 @@ Document Upload → Agent 1 (Extraction) → Agent 2 (Classification) → Agent 
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd yaju-idp-agents
+   cd legal-idp-agents
    ```
 
 2. **Install Dependencies**
